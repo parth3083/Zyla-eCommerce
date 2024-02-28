@@ -5,6 +5,11 @@
 Zyla e-Commerce is a full-fledged e-commerce application built using the power of React.js, providing a seamless and user-friendly experience for both customers and administrators.
 <br>
 <br>
+Watch demo at : 
+<br>
+https://youtu.be/gXw5sVJba2U
+<br>
+<br>
 Key Features:
 <br>
 Robust Data Management:
